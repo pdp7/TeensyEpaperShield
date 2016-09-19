@@ -1,3 +1,7 @@
+// This program is based on demo code
+// written by Jarek Lupinski on Hackaday.io:
+// https://hackaday.io/project/13327/files
+
 #include "epaper.h"
 
 #define NMSG 9
