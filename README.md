@@ -1,7 +1,6 @@
 # TeensyEpaperShield
 Teensy shield designed by [Jarek Lupinski](https://hackaday.io/Jarek) to connect e-paper display from [Pervasive Displays](http://www.pervasivedisplays.com/products#iTC):
-
- _The Simplest Way To Start Playing With A Fascinating New Low-Power Screen!_
+ > The Simplest Way To Start Playing With A Fascinating New Low-Power Screen!
 
 ![photo of assembled board](images/teensy-epaper-shield-small.png)
 
