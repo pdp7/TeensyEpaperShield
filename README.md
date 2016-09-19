@@ -6,6 +6,7 @@ Teensy shield designed by [Jarek Lupinski](https://hackaday.io/Jarek) to connect
 
 ## OSH Park Shared Project
 * [Teensy e-Paper shield](https://oshpark.com/shared_projects/3KynIVn6)
+
 ![PCB preview](images/small-pcb-top-bottom.png)
 
 ## Blog posts:
