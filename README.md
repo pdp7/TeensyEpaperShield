@@ -9,14 +9,14 @@ Teensy shield designed by [Jarek Lupinski](https://hackaday.io/Jarek) to connect
 
 [![PCB preview](images/small-pcb-top-bottom.png)](https://oshpark.com/shared_projects/3KynIVn6)
 
-## Blog posts:
+## Blog posts
 * [Teensy E-Paper shield](https://blog.oshpark.com/2016/08/27/teensy-e-paper-shield/)
 * [Teensy E-Paper shield update](https://blog.oshpark.com/2016/09/07/teensy-e-paper-shield-update/)
 
-## Hackaday.io project:
+## Hackaday.io project
 * [Teensy E-Paper Adapter Board](https://hackaday.io/project/13327-teensy-e-paper-adapter-board)
 
-## Design files:
+## Design files
 * [EpaperTeensyBoard.sch](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.sch)
 * [EpaperTeensyBoard.brd](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoard.brd)
 
@@ -31,7 +31,7 @@ Teensy shield designed by [Jarek Lupinski](https://hackaday.io/Jarek) to connect
 * [Pervasive Displays 2.15" e-paper with ITC (E2215CS062)](http://www.digikey.com/product-detail/en/pervasive-displays/E2215CS062/E2215CS062-ND/5975949)
 * [Parts list exported from EAGLE](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoardPartlist.txt)
 
-## Parts list:
+## Parts list
 ```
 Exported from EpaperTeensyBoard.sch at 9/10/2016 6:15 PM
 
