@@ -31,5 +31,8 @@ Teensy shield designed by [Jarek Lupinski](https://hackaday.io/Jarek) to connect
 * [Parts list exported from EAGLE](https://cdn.hackaday.io/files/13327570182368/EpaperTeensyBoardPartlist.txt)
 * [Pervasive Displays 2.15" e-paper with ITC (E2215CS062)](http://www.digikey.com/product-detail/en/pervasive-displays/E2215CS062/E2215CS062-ND/5975949)
 * [Hirose Electric Co Ltd FH34SRJ-34S-0.5SH FPC connector]( https://www.digikey.com/short/3hv1q0 )
+* [Digi-Key shopping cart #1](http://www.digikey.com/short/3mhnrd)
+* [Digi-Key shopping cart #2](http://www.digikey.com/short/3m9wq3)
+
 
 ![Digi-Key order](https://raw.githubusercontent.com/pdp7/TeensyEpaperShield/master/bom/digikey-order.png)
